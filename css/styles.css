@@ -1,0 +1,22 @@
+/*Css Style Sheet*/
+body {
+  background: mistyrose;
+}
+.flexcontainer {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  border: 10px solid goldenrod;
+}
+.fbox {
+  font-size: 45px;
+  text-align: center;
+  text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+}
+.fbox1 {
+  background-color: orchid;
+}
+.fbox2 {
+  background-color: lawngreen;
+}
